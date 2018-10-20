@@ -1,10 +1,10 @@
 Pokebot _(poke-jem-bot)_
 =======================
 A friend request me to make this bot pokes some one on facebook
-that really challege to give the best what i can ..
+that really challege me to give the best what i can ..
 shake me over  hahaha.. lol..
 
-dot forget to fork me  and telling me abaout something bugs tools 
+dont forget to fork me  and telling me abaout something bugs tools 
 you can try to poke me huh hehehehe https://www.facebook.com/clarisha.octa.3
 
 
